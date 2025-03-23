@@ -1,0 +1,17 @@
+1,1,3,main.c
+2,2,3,main.a
+3,3,3,main.b
+4,4,3,main.sumSquares
+5,-1,2,main.modulo.out
+6,-1,2,main.modulo.in
+7,5,2,main.modulo.q
+8,-1,0,main.modulo.range.in
+9,6,0,main.modulo.range.aux
+10,-1,0,main.rangeA.in
+11,7,0,main.rangeA.aux
+12,-1,0,main.rangeB.in
+13,8,0,main.rangeB.aux
+14,9,1,main.squareA.out
+15,-1,1,main.squareA.in
+16,10,1,main.squareB.out
+17,-1,1,main.squareB.in
